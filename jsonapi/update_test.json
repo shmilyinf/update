@@ -4,8 +4,8 @@
   "UpdateStatus": 1,
   "VersionCode": 5,
   "VersionName": "1.0.5",
-  "UploadTime": "2018-07-16 18:30:41",
-  "ModifyContent": "update_test-1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/TEST/update/app_demo_1.0.5.apk",
-  "apkSize": 3000
+  "UploadTime": "2018-07-17 19:28:41",
+  "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
+  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUpdate/master/apk/xupdate_demo_1.0.2.apk",
+  "ApkSize": 3000
 }
