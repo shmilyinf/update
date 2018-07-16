@@ -4,6 +4,6 @@
   "versionCode": 4,
   "versionName": "1.0.4",
   "updateLog": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "apkUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/TEST/update/app-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/TEST/update/app_demo_1.0.4",
   "apkSize": 2700
 }
