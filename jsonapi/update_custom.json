@@ -1,9 +1,9 @@
 {
   "hasUpdate": true,
   "isIgnorable": true,
-  "versionCode": 5,
-  "versionName": "1.0.5",
+  "versionCode": 8,
+  "versionName": "1.0.8",
   "updateLog": "update_custom:1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "apkUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/TEST/update/app_demo_1.0.5.apk",
-  "apkSize": 3000
+  "apkUrl": "https://d.pcs.baidu.com/file/27118dc065c229df1aea89078b8a08f5?fid=151250776-250528-269453959421009&dstime=1532179677&rt=sh&sign=FDtAERVY-DCb740ccc5511e5e8fedcff06b081203-LW7qg7oA4IIGOQZOkdQnCoQ5pU4%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=4682501527307334073&dp-callid=0&r=665300696",
+  "apkSize": 3400
 }
