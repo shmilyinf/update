@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 44,
-  "VersionName": "1.4.4",
+  "VersionCode": 4,
+  "VersionName": "1.0.4",
   "UploadTime": "2018-07-21 19:28:41",
   "ModifyContent": "test 1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
   "DownloadUrl": "https://development78.baidupan.com/2018072121bb/2018/07/21/d61e56e9e9acdc537d45fb643d6564bf.apk?st=AakNXVYrIkFvvEsDgJQVzg&q=TEST2.apk&e=1532183224&ip=183.18.3.171&fi=4178768&up=1.",
-  "ApkSize": 500
+  "ApkSize": 999
 }
