@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 7,
-  "VersionName": "1.0.7",
+  "VersionCode": 9,
+  "VersionName": "1.0.9",
   "UploadTime": "2018-07-21 19:28:41",
   "ModifyContent": "test 1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://development.baidupan.com/2018072121bb/2018/04/14/0755770768f3402d0da7c89d889cd974.rar?st=4ESLd3L2BOMXOVyG_LirKQ&q=permission.rar&e=1532182675&ip=183.18.3.171&fi=3146508&up=1.",
-  "ApkSize": 3200
+  "DownloadUrl": "https://development78.baidupan.com/2018072121bb/2018/07/21/d61e56e9e9acdc537d45fb643d6564bf.apk?st=AakNXVYrIkFvvEsDgJQVzg&q=TEST2.apk&e=1532183224&ip=183.18.3.171&fi=4178768&up=1.",
+  "ApkSize": 1900
 }
