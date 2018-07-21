@@ -1,8 +1,8 @@
 {
   "hasUpdate": true,
   "isIgnorable": true,
-  "versionCode": 3,
-  "versionName": "1.0.3",
+  "versionCode": 4,
+  "versionName": "1.0.4",
   "updateLog": "update_custom3:1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
   "apkUrl": "https://development01.baidupan.com/2018072122bb/2018/07/21/5b4219b44a7d9e30d9b0c17d569d998f.apk?st=InjxJ2l4nEqKHbuMq8D12g&q=TEST4.apk&e=1532184816&ip=183.18.3.171&fi=4179040&up=1.",
   "apkSize": 777
