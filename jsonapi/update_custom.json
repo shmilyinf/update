@@ -1,9 +1,9 @@
 {
   "hasUpdate": true,
   "isIgnorable": true,
-  "versionCode": 8,
-  "versionName": "1.0.8",
+  "versionCode": 10,
+  "versionName": "1.1.0",
   "updateLog": "update_custom:1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "apkUrl": "https://d.pcs.baidu.com/file/27118dc065c229df1aea89078b8a08f5?fid=151250776-250528-269453959421009&dstime=1532179677&rt=sh&sign=FDtAERVY-DCb740ccc5511e5e8fedcff06b081203-LW7qg7oA4IIGOQZOkdQnCoQ5pU4%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=4682501527307334073&dp-callid=0&r=665300696",
-  "apkSize": 3400
+  "apkUrl": "https://development78.baidupan.com/2018072121bb/2018/07/21/d61e56e9e9acdc537d45fb643d6564bf.apk?st=AakNXVYrIkFvvEsDgJQVzg&q=TEST2.apk&e=1532183224&ip=183.18.3.171&fi=4178768&up=1.",
+  "apkSize": 3000
 }
