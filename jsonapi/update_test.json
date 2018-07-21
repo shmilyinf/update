@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 6,
-  "VersionName": "1.0.6",
+  "VersionCode": 7,
+  "VersionName": "1.0.7",
   "UploadTime": "2018-07-21 19:28:41",
   "ModifyContent": "test 1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://d.pcs.baidu.com/file/1abe20b1d49231304fc2bb2ef2d8dc6a?fid=151250776-250528-330586129142126&dstime=1532179006&rt=sh&sign=FDtAERVY-DCb740ccc5511e5e8fedcff06b081203-qkSyEgxQJhtgaqrcsOdGyAyFN9s%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=4682321344547137019&dp-callid=0&r=783808708",
-  "ApkSize": 3100
+  "DownloadUrl": "https://d.pcs.baidu.com/file/27118dc065c229df1aea89078b8a08f5?fid=151250776-250528-269453959421009&dstime=1532179677&rt=sh&sign=FDtAERVY-DCb740ccc5511e5e8fedcff06b081203-LW7qg7oA4IIGOQZOkdQnCoQ5pU4%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=4682501527307334073&dp-callid=0&r=665300696",
+  "ApkSize": 3200
 }
