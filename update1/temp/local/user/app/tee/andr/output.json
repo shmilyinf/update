@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 2,
+  "VersionCode": 3,
   "VersionName": "1.0.2",
   "UploadTime": "2018-07-26 19:28:41",
   "ModifyContent": "1、添加在线更新功能\r\n2、优化代码\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
