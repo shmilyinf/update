@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 3,
-  "VersionName": "1.0.3",
+  "VersionCode": 4,
+  "VersionName": "1.0.4",
   "UploadTime": "2018-07-28 19:28:41",
-  "ModifyContent": "1、添加一个扫雷游戏\r\n2、修改部分ui\r\n",
+  "ModifyContent": "1、添加一个扫雷游戏（临时放置第二页）\r\n2、添加悬浮按钮（还不完善）\r\n3、修改部分ui",
   "DownloadUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/update1/temp/local/user/app/tee/andr/Zlove_release.apk",
   "ApkSize": 12200
 }
