@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 8,
-  "VersionName": "1.0.8",
-  "UploadTime": "2018-09-19 22:30:40",
-  "ModifyContent": "1、首页加入动态背景，类似QQ\r\n2、添加几个小游戏。\r\n3、增加一个按钮，整理界面，收纳到按钮\r\n",
+  "VersionCode": 9,
+  "VersionName": "1.0.9",
+  "UploadTime": "2018-11-28 21:30:40",
+  "ModifyContent": "1、修复bug\r\n2、。。。\r\n",
   "DownloadUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/update1/temp/local/user/app/tee/andr/Zlove_release.apk",
   "ApkSize": 17600
 }
