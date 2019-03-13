@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 9,
-  "VersionName": "1.0.9",
-  "UploadTime": "2018-11-28 21:30:40",
-  "ModifyContent": "1、修复bug\r\n2、。。。\r\n",
+  "VersionCode": 10,
+  "VersionName": "1.1.0",
+  "UploadTime": "2019-03-13 22:30:40",
+  "ModifyContent": "1、增加屏幕尺子，再也不担心找不到尺子啦😄\r\n2、调整了布局\r\n",
   "DownloadUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/update1/temp/local/user/app/tee/andr/Zlove_release.apk",
-  "ApkSize": 17600
+  "ApkSize": 18353
 }
