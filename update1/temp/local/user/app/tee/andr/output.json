@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 10,
-  "VersionName": "1.1.0",
-  "UploadTime": "2019-03-13 22:30:40",
-  "ModifyContent": "1、增加屏幕尺子，再也不担心找不到尺子啦😄\r\n2、调整了布局\r\n",
+  "VersionCode": 11,
+  "VersionName": "1.1",
+  "UploadTime": "2019-04-08 14:05:40",
+  "ModifyContent": "1、增加长图生成器😄\r\n（可以多张图生成一张长图哦，再也不用担心朋友圈的九宫格了）\r\n",
   "DownloadUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/update1/temp/local/user/app/tee/andr/Zlove_release.apk",
-  "ApkSize": 18353
+  "ApkSize": 18900
 }
