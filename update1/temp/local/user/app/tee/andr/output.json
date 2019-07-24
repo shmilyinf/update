@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 13,
-  "VersionName": "1.3",
-  "UploadTime": "2019-05-19 22:25:40",
-  "ModifyContent": "亲爱的\r\n 你辛苦啦！\r\n520~生生世世\r\n 本次更新内容：\r\n1、首页最底下那行字点击可以显示一些系统信息\r\n 2、下雪页面从底部往上拉或许有惊喜哦~~\r\n 3、增加APP查看管理功能\r\n4、其他部分还未完善...待续😄\r\n",
+  "VersionCode": 14,
+  "VersionName": "1.4",
+  "UploadTime": "2019-07-24 11:55:40",
+  "ModifyContent": "2019-07-24\r\n 本次更新内容：\r\n1、修复更新问题 \r\n😄",
   "DownloadUrl": "https://raw.githubusercontent.com/shmilyinf/update/master/update1/temp/local/user/app/tee/andr/Zlove_release.apk",
   "ApkSize": 19800
 }
